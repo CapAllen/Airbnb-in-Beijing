@@ -26,3 +26,24 @@ A blog post describing the results can be found at [Allen's Blog : Airbnb in Bei
 ## Authors
 
 Allen Jia
+
+## Thanks
+
+<a href="https://eu.udacity.com/">
+  <img src="https://eu.udacity.com/assets/iridium/images/core/header/udacity-wordmark.svg" alt="Udacity Logo" width="490" height="106">
+</a>
+
+Thanks to [Udacity](https://eu.udacity.com/) for setting up the projects where we can do cool stuff!
+
+<a href="https://airbnb.com">
+  <img src="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102014/airbnb.png?itok=d2X_Ds1a" alt="Airbnb Logo">
+</a>
+
+Thanks to [Airbnb](https://airbnb.com) for providing cool data!
+
+## Licensing/ Acknowledgements
+
+- [PyEcharts-Library](https://pyecharts.org/#/)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" style="float:left" /></a>
+
