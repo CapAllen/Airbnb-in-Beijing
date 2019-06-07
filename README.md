@@ -21,7 +21,7 @@ The jupyter notebook contains all the codes of this project.
 
 ## Blog post
 
-A blog post describing the results can be found at [Allen's Blog : Airbnb in Beijing](https://www.capallen.top/2019/05/27/Airbnb-in-Beijing/).
+A blog post describing the results can be found at [Allen's Blog : Airbnb in Beijing](https://www.capallen.top/2019/Airbnb-in-Beijing.html).
 
 ## Authors
 
